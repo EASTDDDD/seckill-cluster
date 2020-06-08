@@ -1,5 +1,5 @@
 # seckill-cluster
-redis-cluster集群版+redisTemplate操纵redis
+redis-cluster集群版+redisTemplate操纵redis,在doc文件夹里面附上了我详细搭建redis-cluster的过程。
 
 本系统是使用SpringBoot开发的高并发限时抢购秒杀系统，除了实现基本的登录、查看商品列表、秒杀、下单等功能，项目中还针对高并发情况实现了系统缓存、降级和限流。
 
