@@ -10,8 +10,11 @@ sts + Navicat + Sublime Text3 + Git + Chrome
 JMeter
 
 开发技术:
+
 前端技术 ：Bootstrap + jQuery + Thymeleaf
+
 后端技术 ：SpringBoot + MyBatis + MySQL
+
 中间件技术 : Druid + Redis + RabbitMQ + Guava
 
 秒杀优化方向:
